@@ -55,7 +55,7 @@ cd LA-1
 
 ## Usage
 
-Run `python main.py` to run the application.
+Run `python httpc/httpc.py` to run the application.
 
 Examples:
 ```zsh
