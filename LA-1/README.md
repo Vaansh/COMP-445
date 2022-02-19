@@ -48,6 +48,7 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Clone this repository or download the folder from [GitHub](https://github.com/Vaansh/COMP-445/tree/main/LA-1).
+
 ```zsh
 git clone https://github.com/Vaansh/COMP-445.git
 cd LA-1
@@ -58,6 +59,7 @@ cd LA-1
 Run `python httpc/httpc.py` to run the application.
 
 Examples:
+
 ```zsh
 python httpc/httpc.py help (get | post)
 python httpc/httpc.py get http://httpbin.org/status/418
